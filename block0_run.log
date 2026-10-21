@@ -1,0 +1,8 @@
+2026-06-20 08:41:53,713 | INFO     | ============================================================
+2026-06-20 08:41:53,714 | INFO     | Starting BLOCK_0_OPT1
+2026-06-20 08:41:53,714 | INFO     | ============================================================
+2026-06-20 08:41:53,736 | INFO     | Found 40 subjects: ['Subject_01', 'Subject_02', 'Subject_03', 'Subject_04', 'Subject_05']...
+2026-06-20 08:41:53,736 | INFO     | Using ALL 40 subjects for optimization (final run).
+2026-06-20 08:41:53,736 | INFO     | Starting grid search over WS × OL × 5 models...
+2026-06-20 08:41:53,737 | INFO     | NOTE: This will save ALL 100 confusion matrices and metrics files.
+2026-06-20 08:41:53,738 | INFO     |   [1/20] Evaluating WS=200, OL=0%
