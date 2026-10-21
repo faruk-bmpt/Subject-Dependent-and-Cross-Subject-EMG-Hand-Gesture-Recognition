@@ -22,33 +22,33 @@ recognition using subject-dependent and cross-subject experiments.
 
   `BLOCK_D_PRE1.py`                   Preprocesses EMG recordings.
 
-  `BLOCK_0_OPT1.py`                   Evaluates the design/search space
+  `BLOCK_00_OPT1.py`                   Evaluates the design/search space
                                       for pipeline settings.
 
-  `BLOCK_1_LEAK1.py`                  Checks for potential data leakage.
+  `BLOCK_01_LEAK1.py`                  Checks for potential data leakage.
 
-  `BLOCK_2_FE1.py`                    Extracts and selects EMG features.
+  `BLOCK_02_FE1.py`                    Extracts and selects EMG features.
 
-  `BLOCK_3_GEN1.py`                   Evaluates cross-subject
+  `BLOCK_03_GEN1.py`                   Evaluates cross-subject
                                       generalization, including LOSO and
                                       calibration experiments.
 
-  `BLOCK_4_PER1.py`                   Evaluates personalized,
+  `BLOCK_04_PER1.py`                   Evaluates personalized,
                                       subject-dependent recognition.
 
-  `BLOCK_5_AB1.py`                    Runs feature or pipeline ablation
+  `BLOCK_05_AB1.py`                    Runs feature or pipeline ablation
                                       experiments.
 
-  `BLOCK_6_XAI1.py`                   Provides model explainability
+  `BLOCK_06_XAI1.py`                   Provides model explainability
                                       analyses.
 
-  `BLOCK_7_STAT1.py`                  Performs statistical validation and
+  `BLOCK_07_STAT1.py`                  Performs statistical validation and
                                       comparisons.
 
-  `BLOCK_8_BEN1.py`                   Benchmarks models and
+  `BLOCK_08_BEN1.py`                   Benchmarks models and
                                       configurations.
 
-  `BLOCK_9_CM1.py`                    Analyzes confusion matrices and
+  `BLOCK_09_CM1.py`                    Analyzes confusion matrices and
                                       gesture-level performance.
 
   `BLOCK_10_DEP1.py`                  Assesses deployment-related
